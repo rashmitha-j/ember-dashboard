@@ -217,7 +217,7 @@ export function SettingsSection() {
                   <Input
                     id="email"
                     type="email"
-                    defaultValue="rashmitha.j@example.com"
+                    defaultValue="rashmithajagadish1@gmail.com"
                     className="bg-secondary border-border focus:border-accent"
                   />
                 </div>

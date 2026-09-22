@@ -27,7 +27,7 @@ interface TeamMember {
 }
 
 const teamMembers: TeamMember[] = [
-  { id: "1", name: "Rashmitha J", role: "Student", email: "rashmitha.j@example.com", avatar: "RJ", deals: 24, revenue: 487500, quota: 450000, change: 15, rank: 1 },
+  { id: "1", name: "Rashmitha J", role: "Student", email: "rashmithajagadish1@gmail.com", avatar: "RJ", deals: 24, revenue: 487500, quota: 450000, change: 15, rank: 1 },
   { id: "2", name: "Team Member 2", role: "Account Executive", email: "member2@example.com", avatar: "T2", deals: 19, revenue: 356200, quota: 400000, change: 8, rank: 2 },
   { id: "3", name: "Team Member 3", role: "Senior AE", email: "member3@example.com", avatar: "T3", deals: 17, revenue: 312800, quota: 350000, change: 12, rank: 3 },
   { id: "4", name: "Team Member 4", role: "Account Executive", email: "member4@example.com", avatar: "T4", deals: 15, revenue: 289400, quota: 350000, change: -5, rank: 4 },
